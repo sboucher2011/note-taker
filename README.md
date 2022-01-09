@@ -7,13 +7,13 @@ This website is to generate and save tasks using a JSON file.  The program allow
 
 ## Website Preview
 View previously entered tasks:
-![alt text](https://github.com/sboucher2011/note-taker/blob/main/public/assets/image1/website_image_for_readme.png)
+![alt text](https://github.com/sboucher2011/note-taker/blob/main/public/assets/images/image1.jpg)
 
 Create a new task and then save it by pressing the save icon in the top right corner:
-![alt text](https://github.com/sboucher2011/note-taker/blob/main/public/assets/image2/website_image_for_readme.png)
+![alt text](https://github.com/sboucher2011/note-taker/blob/main/public/assets/images/image2.jpg)
 
 The new task adds to the list:
-![alt text](https://github.com/sboucher2011/note-taker/blob/main/public/assets/image3/website_image_for_readme.png)
+![alt text](https://github.com/sboucher2011/note-taker/blob/main/public/assets/images/image3.jpg)
 
 ## Built With
 * HTML
